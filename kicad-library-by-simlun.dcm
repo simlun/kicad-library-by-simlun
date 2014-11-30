@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM336
+D 2.5V Voltage reference TO-92
+K VOLTAGE REFERENCE
+$ENDCMP
+#
+#End Doc Library
