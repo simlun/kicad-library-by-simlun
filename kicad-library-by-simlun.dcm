@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP INA126
+D INA126 Instrumentation Amplifier DIP-8
+K INA125 AMPLIFIER AMP OPAMP
+$ENDCMP
+#
 $CMP LM336
 D 2.5V Voltage reference TO-92
 K VOLTAGE REFERENCE
