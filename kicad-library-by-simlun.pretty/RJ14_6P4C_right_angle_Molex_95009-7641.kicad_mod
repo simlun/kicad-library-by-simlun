@@ -1,0 +1,8 @@
+(module RJ14_6P4C_right_angle_Molex_95009-7641 (layer F.Cu) (tedit 54830CED)
+  (fp_text reference "RJ14 6P4C Molex 95009-7641 right angle" (at 0 7.62) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 -10.16) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+)
