@@ -24,6 +24,11 @@ I2C_RJ14:
 ![I2C_RJ14 component](docs/I2C_RJ14_component.png)
 
 
+MCP23017:
+
+![MCP23017 component](docs/MCP23017_component.png)
+
+
 Footprints
 ----------
 
