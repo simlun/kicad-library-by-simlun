@@ -10,6 +10,10 @@ D 2.5V Voltage reference TO-92
 K VOLTAGE REFERENCE
 $ENDCMP
 #
+$CMP MCP23017
+D MCP23017 16-Bit I/O Expander with Serial Interface
+$ENDCMP
+#
 $CMP PIC12F1822
 D 8-Pin Flash Microcontroller with XLP Technology
 K pic microcontroller
