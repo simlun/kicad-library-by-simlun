@@ -28,6 +28,10 @@ MCP23017:
 
 ![MCP23017 component](docs/MCP23017_component.png)
 
+NE555P:
+
+![NE555P component](docs/NE555P_component.png)
+
 
 Footprints
 ----------

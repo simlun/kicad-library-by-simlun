@@ -14,6 +14,11 @@ $CMP MCP23017
 D MCP23017 16-Bit I/O Expander with Serial Interface
 $ENDCMP
 #
+$CMP NE555P
+D 555 Timer IC in a DIP-8 package
+K 555 timer dip-8
+$ENDCMP
+#
 $CMP PIC12F1822
 D 8-Pin Flash Microcontroller with XLP Technology
 K pic microcontroller
