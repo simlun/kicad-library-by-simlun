@@ -32,6 +32,10 @@ NE555P:
 
 ![NE555P component](docs/NE555P_component.png)
 
+4026:
+
+![4026 component](docs/4026_component.png)
+
 
 Footprints
 ----------
